@@ -82,7 +82,7 @@ footer:
       # url:
     - label: "GitHub"
        icon: "fab fa-fw fa-github"
-        url: "https://github.com/valarsundarlis"
+        #url: "https://github.com/valarsundarlis"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -91,7 +91,7 @@ footer:
       # url:
     - label: "Instagram"
        icon: "fab fa-fw fa-instagram"
-        url: "https://instagram.com/valarsundarlis/"
+        #url: "https://instagram.com/valarsundarlis/"
 
 
 # Reading Files
