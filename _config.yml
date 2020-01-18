@@ -129,7 +129,7 @@ author:
       url: "https://github.com/valarsundarlis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/valarsundarlis/"
+      # url: "https://instagram.com/valarsundarlis/"
 
 # Site Footer
 footer:
